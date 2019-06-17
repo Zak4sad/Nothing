@@ -1,10 +1,5 @@
 
-README
-
-
 Hi this is Zakariaa SADEK , 
-
-This is my source code for the Oracle Task
 
 Fisrt of all clone the repository into your own laptop,
 
@@ -14,7 +9,7 @@ Fisrt of all clone the repository into your own laptop,
 - run : curl -k https://localhost:9090  
 
 
-# nb : The -k flag is to turn off curl cert verification .
+### nb : The -k flag is to turn off curl cert verification .
 
 5- Enter to your browser and go to https://localhost:9090/ 
 
