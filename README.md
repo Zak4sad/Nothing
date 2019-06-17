@@ -17,9 +17,13 @@ Fisrt of all clone the repository into your own laptop,
 
 ![](./images/SSL_Certificate_Error.png)
 
+
+
  - Ignore it and you will get a web Page like 
 
 ![](./images/screenshot.png)
+
+
 
  -  go to terminal and run the command as follow
 
