@@ -28,7 +28,7 @@ Fisrt of all clone the repository into your own laptop,
 
 7-  go to terminal and run the command as follow
 
-![](./images/absCommand.png)
+abs -n 10000 -c 10 https://localhost:9090/ >> output.txt
 
 
 8- See the output of the file in output.txt
